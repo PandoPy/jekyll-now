@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+What up! We're two cool dudes looking for other cool dudes to party in our party mansion. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You know, the more you know.
 
 ### Contact me
 
