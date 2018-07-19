@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-What up! We're two cool dudes looking for other cool dudes to party in our party mansion. 
+Python python python
 
 ### More Information
 
@@ -12,4 +12,4 @@ You know, the more you know.
 
 ### Contact me
 
-[email@domain.com](mailto:brendanm42@gmail.com)
+[brendanm42@gmail.com](mailto:brendanm42@gmail.com)
