@@ -12,4 +12,4 @@ You know, the more you know.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:brendanm42@gmail.com)
